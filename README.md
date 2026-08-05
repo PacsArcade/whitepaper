@@ -40,6 +40,21 @@ Nobody should have to trust; everybody should get to verify.
 
 ---
 
+## What You Get
+
+Here's the part that matters to you. Walk through our door and you leave with:
+
+- **A name nobody can take.** Your handle, your key, your identity — recognized everywhere in the fleet, revocable by no one. No password to leak, no account to be suspended, ever.
+- **Money skills that pay for themselves.** Free classes and plain-language manuals that take you from "what's a wallet?" to holding your own keys with confidence. The first skill of the century, at your pace, at zero cost.
+- **Your knowledge, kept forever.** What you learn, write, and build gets anchored to the block — the one record no platform, company, or policy change can delete. Your work outlives the landlords.
+- **Your own time.** A clock and calendar that no government edits and no committee shifts — 144 blocks a day, the same for every soul on earth. Run your birthday in Bitcoin time; it's yours now.
+- **A community that checks on you.** Classrooms with a teacher who sees who's stuck, a buddy on the porch light, people who answer. No one gets left in the corner — including you.
+- **Zero fees, zero checkpoints.** Everything free, everything open, nothing custodial. We never touch your money, your keys, or your papers — because we built this so nobody has to.
+
+That's the deal. No catch, because there's nothing to sell — we're a non-profit and the tools are the mission.
+
+---
+
 ## The Mission
 
 We exist to **preserve knowledge and tie it to the block, forever** — to take what a community knows and anchor it to the one record no authority can edit, so it outlives the platform, the company, and the news cycle. A block height is a timestamp nobody can revise. We date the truth to it. We call ourselves the defenders of the block, and this is the watch we keep.
