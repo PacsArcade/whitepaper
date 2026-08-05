@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" font-family="Courier New, monospace">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#f7931a"/>
+    </marker>
+    <marker id="arrc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#4dd8e6"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="620" fill="#14111a"/>
+  <text x="480" y="38" text-anchor="middle" fill="#e8e2d8" font-size="22" letter-spacing="6">THE FLEET — ONE CLOCK, MANY DOORS</text>
+
+  <!-- THE BLOCK -->
+  <rect x="330" y="62" width="300" height="58" rx="6" fill="none" stroke="#f7931a" stroke-width="2.5"/>
+  <text x="480" y="87" text-anchor="middle" fill="#f7931a" font-size="17" font-weight="bold">⛓ THE BLOCK</text>
+  <text x="480" y="107" text-anchor="middle" fill="#c7bfae" font-size="11">the one record nobody can edit · 144 a day</text>
+
+  <!-- block -> rails arrows -->
+  <line x1="480" y1="120" x2="480" y2="152" stroke="#f7931a" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- SHARED RAILS band -->
+  <rect x="90" y="156" width="780" height="66" rx="8" fill="rgba(247,147,26,.06)" stroke="#f7931a" stroke-width="1.5" stroke-dasharray="7 4"/>
+  <text x="480" y="177" text-anchor="middle" fill="#f7931a" font-size="12" letter-spacing="3">THE SHARED RAILS — same standards on every deck</text>
+  <text x="480" y="203" text-anchor="middle" fill="#e8e2d8" font-size="12.5">BFT block-time  ·  keys are consent  ·  Nostr identity  ·  SCAR signed decisions  ·  the brand-kit-in-a-box</text>
+
+  <!-- rails -> ships arrows -->
+  <line x1="215" y1="222" x2="215" y2="258" stroke="#f7931a" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="480" y1="222" x2="480" y2="258" stroke="#f7931a" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="660" y1="222" x2="660" y2="258" stroke="#f7931a" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="830" y1="222" x2="830" y2="258" stroke="#f7931a" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- FLAGSHIP -->
+  <rect x="120" y="262" width="190" height="104" rx="8" fill="rgba(77,216,230,.07)" stroke="#4dd8e6" stroke-width="2.5"/>
+  <text x="215" y="288" text-anchor="middle" fill="#4dd8e6" font-size="15" font-weight="bold">⚑ frens.earth</text>
+  <text x="215" y="307" text-anchor="middle" fill="#c7bfae" font-size="10.5">THE FLAGSHIP · master template</text>
+  <text x="215" y="327" text-anchor="middle" fill="#e8e2d8" font-size="11">@frens tags · NIP-05 names</text>
+  <text x="215" y="345" text-anchor="middle" fill="#e8e2d8" font-size="11">flagship key signs the big calls</text>
+
+  <!-- SISTER SHIPS -->
+  <rect x="385" y="262" width="190" height="104" rx="8" fill="none" stroke="#4dd8e6" stroke-width="1.5"/>
+  <text x="480" y="288" text-anchor="middle" fill="#4dd8e6" font-size="14" font-weight="bold">pacsarcade.org</text>
+  <text x="480" y="307" text-anchor="middle" fill="#c7bfae" font-size="10.5">the arcade · 501(c)(3) home</text>
+  <text x="480" y="327" text-anchor="middle" fill="#e8e2d8" font-size="11">classes · manuals · buddy</text>
+  <text x="480" y="345" text-anchor="middle" fill="#e8e2d8" font-size="11">its own keys · its own deck</text>
+
+  <rect x="600" y="262" width="150" height="104" rx="8" fill="none" stroke="#4dd8e6" stroke-width="1.5"/>
+  <text x="675" y="288" text-anchor="middle" fill="#4dd8e6" font-size="12.5" font-weight="bold">onecocreation.com</text>
+  <text x="675" y="307" text-anchor="middle" fill="#c7bfae" font-size="10.5">an artist's ship</text>
+  <text x="675" y="327" text-anchor="middle" fill="#e8e2d8" font-size="11">store · sessions · rooms</text>
+  <text x="675" y="345" text-anchor="middle" fill="#e8e2d8" font-size="11">her keys · her sats</text>
+
+  <rect x="775" y="262" width="110" height="104" rx="8" fill="none" stroke="#8b76c4" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="830" y="295" text-anchor="middle" fill="#8b76c4" font-size="12" font-weight="bold">your door</text>
+  <text x="830" y="315" text-anchor="middle" fill="#c7bfae" font-size="10.5">clone the box</text>
+  <text x="830" y="333" text-anchor="middle" fill="#c7bfae" font-size="10.5">your keys</text>
+  <text x="830" y="351" text-anchor="middle" fill="#c7bfae" font-size="10.5">your name</text>
+
+  <!-- ships -> metal arrows -->
+  <line x1="215" y1="366" x2="215" y2="412" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#arrc)"/>
+  <line x1="480" y1="366" x2="480" y2="412" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#arrc)"/>
+  <line x1="675" y1="366" x2="675" y2="412" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#arrc)"/>
+
+  <!-- THE METAL -->
+  <rect x="90" y="416" width="780" height="130" rx="8" fill="rgba(232,226,216,.04)" stroke="#e8e2d8" stroke-width="1.5"/>
+  <text x="480" y="440" text-anchor="middle" fill="#e8e2d8" font-size="12" letter-spacing="3">THE METAL — our own machines, nobody in between</text>
+
+  <rect x="115" y="454" width="130" height="72" rx="6" fill="none" stroke="#f7931a" stroke-width="1.5"/>
+  <text x="180" y="482" text-anchor="middle" fill="#f7931a" font-size="12" font-weight="bold">bitcoind</text>
+  <text x="180" y="500" text-anchor="middle" fill="#c7bfae" font-size="10">our node — the clock</text>
+  <text x="180" y="515" text-anchor="middle" fill="#c7bfae" font-size="10">we read, we verify</text>
+
+  <rect x="270" y="454" width="130" height="72" rx="6" fill="none" stroke="#f7931a" stroke-width="1.5"/>
+  <text x="335" y="482" text-anchor="middle" fill="#f7931a" font-size="12" font-weight="bold">lightning ⚡</text>
+  <text x="335" y="500" text-anchor="middle" fill="#c7bfae" font-size="10">CLN · instant sats</text>
+  <text x="335" y="515" text-anchor="middle" fill="#c7bfae" font-size="10">zero-fee rails</text>
+
+  <rect x="425" y="454" width="130" height="72" rx="6" fill="none" stroke="#f7931a" stroke-width="1.5"/>
+  <text x="490" y="482" text-anchor="middle" fill="#f7931a" font-size="12" font-weight="bold">BTCPay</text>
+  <text x="490" y="500" text-anchor="middle" fill="#c7bfae" font-size="10">self-hosted treasury</text>
+  <text x="490" y="515" text-anchor="middle" fill="#c7bfae" font-size="10">no processor, no cut</text>
+
+  <rect x="580" y="454" width="130" height="72" rx="6" fill="none" stroke="#4dd8e6" stroke-width="1.5"/>
+  <text x="645" y="482" text-anchor="middle" fill="#4dd8e6" font-size="12" font-weight="bold">Matrix</text>
+  <text x="645" y="500" text-anchor="middle" fill="#c7bfae" font-size="10">classrooms · chat</text>
+  <text x="645" y="515" text-anchor="middle" fill="#c7bfae" font-size="10">a homeserver per ship</text>
+
+  <rect x="735" y="454" width="120" height="72" rx="6" fill="none" stroke="#8b76c4" stroke-width="1.5"/>
+  <text x="795" y="482" text-anchor="middle" fill="#8b76c4" font-size="12" font-weight="bold">relays + web</text>
+  <text x="795" y="500" text-anchor="middle" fill="#c7bfae" font-size="10">Nostr · the sites</text>
+  <text x="795" y="515" text-anchor="middle" fill="#c7bfae" font-size="10">open protocols</text>
+
+  <text x="480" y="588" text-anchor="middle" fill="#c7bfae" font-size="12" font-style="italic">Anyone can leave with their keys and their data and lose nothing — that is the whole design.</text>
+</svg>

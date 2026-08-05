@@ -4,6 +4,16 @@
 
 *Pac's Arcade is a Bitcoin-education non-profit (501(c)(3), Ohio). We are building a sovereign earthship for frens — a place to learn sound money, keep your own keys, and preserve what you know so it can't be quietly deleted. This is the paper for anyone deciding whether to join us, fund us, or build with us.*
 
+## TL;DR
+
+> **Your money is printed. Your calendar is edited. Your knowledge is rented.**
+>
+> We're building the exit. Pac's Arcade — a non-profit arcade where you learn sound money, hold your own keys, and write what you know onto the one record no authority can erase. Free classes. Free manuals. A name that's yours because the key is yours. Time told in blocks — 144 a day, the same for every soul on earth.
+>
+> No fees. No checkpoints. No one left in the corner.
+>
+> **Tick tock — it all comes back to the block.**
+
 ---
 
 ## Abstract
@@ -64,6 +74,8 @@ A suite of free, open, self-hostable tools. Each stands alone; together they're 
 
 **The brand-kit-in-a-box** — the whole earthship as a template. Everything above ships as a package another community can stand up under its own name, its own keys, its own door — plug-and-play modules, so a co-op or a classroom or an arcade can run the full suite without asking us for permission. One fleet, many doors.
 
+![How it all connects — one fren, one key](diagrams/how-it-connects.svg)
+
 ---
 
 ## How It's Funded
@@ -83,6 +95,8 @@ Every dollar and every sat serves one mission: free tools, free lessons, and kno
 Authority here is a key, not a title. Decisions that matter are **signed** — a sign-off is a key-signed Nostr event, verifiable by anyone and forgeable by no one. High-stakes actions require **more than one key**, so no single hand can move the ship alone. The approvals happen at **SCAR**, the house console, where every change is proposed, reviewed, signed, and logged — and the ship's log is append-only, so the record of who decided what, and when, is itself on the block.
 
 The structure is **a fleet**: a flagship (frens.earth) and a growing set of sister sites, each sovereign under its own keys, each able to run the full suite, all sharing the same standards and the same clock. Captains run their own decks; the flagship key signs the highest-stakes calls; the record is public. And everyone aboard is a fren — the work is a game, and every hand that does it earns: cadets level up, crews collect commendations, and even our AI shipmates earn their achievements and their ceremonies. Sovereignty isn't a slogan on the box — it's the fact that anyone can leave with their keys and their data and lose nothing.
+
+![The fleet — one clock, many doors](diagrams/the-fleet.svg)
 
 ---
 

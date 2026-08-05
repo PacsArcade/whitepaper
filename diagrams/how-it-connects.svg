@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" font-family="Courier New, monospace">
+  <defs>
+    <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#f7931a"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="560" fill="#14111a"/>
+  <text x="480" y="38" text-anchor="middle" fill="#e8e2d8" font-size="22" letter-spacing="6">HOW IT ALL CONNECTS — ONE FREN, ONE KEY</text>
+
+  <!-- THE KEY (left origin) -->
+  <rect x="40" y="230" width="150" height="90" rx="10" fill="rgba(247,147,26,.1)" stroke="#f7931a" stroke-width="2.5"/>
+  <text x="115" y="266" text-anchor="middle" fill="#f7931a" font-size="26">🔑</text>
+  <text x="115" y="290" text-anchor="middle" fill="#f7931a" font-size="13" font-weight="bold">YOUR KEY</text>
+  <text x="115" y="308" text-anchor="middle" fill="#c7bfae" font-size="10">made by you · held by you</text>
+
+  <!-- key -> handle -->
+  <line x1="190" y1="275" x2="252" y2="275" stroke="#f7931a" stroke-width="2" marker-end="url(#a2)"/>
+
+  <!-- THE HANDLE -->
+  <rect x="256" y="230" width="170" height="90" rx="10" fill="none" stroke="#4dd8e6" stroke-width="2"/>
+  <text x="341" y="262" text-anchor="middle" fill="#4dd8e6" font-size="13" font-weight="bold">@you · frens.earth</text>
+  <text x="341" y="282" text-anchor="middle" fill="#c7bfae" font-size="10.5">your handle + NIP-05 name</text>
+  <text x="341" y="300" text-anchor="middle" fill="#c7bfae" font-size="10.5">recognized, never granted</text>
+
+  <!-- handle -> doors (fan out) -->
+  <line x1="426" y1="252" x2="506" y2="122" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#a2)"/>
+  <line x1="426" y1="265" x2="506" y2="212" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#a2)"/>
+  <line x1="426" y1="285" x2="506" y2="302" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#a2)"/>
+  <line x1="426" y1="300" x2="506" y2="392" stroke="#4dd8e6" stroke-width="1.5" marker-end="url(#a2)"/>
+
+  <!-- DOOR 1: learn -->
+  <rect x="510" y="86" width="200" height="74" rx="8" fill="none" stroke="#8b76c4" stroke-width="1.5"/>
+  <text x="610" y="112" text-anchor="middle" fill="#8b76c4" font-size="12.5" font-weight="bold">🎓 LEARN</text>
+  <text x="610" y="130" text-anchor="middle" fill="#e8e2d8" font-size="10.5">classrooms · SOCIAL 101 · RTFM</text>
+  <text x="610" y="147" text-anchor="middle" fill="#c7bfae" font-size="10">a teacher who sees who's stuck</text>
+
+  <!-- DOOR 2: belong -->
+  <rect x="510" y="176" width="200" height="74" rx="8" fill="none" stroke="#8b76c4" stroke-width="1.5"/>
+  <text x="610" y="202" text-anchor="middle" fill="#8b76c4" font-size="12.5" font-weight="bold">🏠 BELONG</text>
+  <text x="610" y="220" text-anchor="middle" fill="#e8e2d8" font-size="10.5">Matrix rooms · the MUD · buddy</text>
+  <text x="610" y="237" text-anchor="middle" fill="#c7bfae" font-size="10">the porch light stays on</text>
+
+  <!-- DOOR 3: earn/own -->
+  <rect x="510" y="266" width="200" height="74" rx="8" fill="none" stroke="#8b76c4" stroke-width="1.5"/>
+  <text x="610" y="292" text-anchor="middle" fill="#8b76c4" font-size="12.5" font-weight="bold">🎟 OWN</text>
+  <text x="610" y="310" text-anchor="middle" fill="#e8e2d8" font-size="10.5">rune tickets · artist keepsakes</text>
+  <text x="610" y="327" text-anchor="middle" fill="#c7bfae" font-size="10">yours by signature, forever</text>
+
+  <!-- DOOR 4: pay/support -->
+  <rect x="510" y="356" width="200" height="74" rx="8" fill="none" stroke="#8b76c4" stroke-width="1.5"/>
+  <text x="610" y="382" text-anchor="middle" fill="#8b76c4" font-size="12.5" font-weight="bold">⚡ PAY &amp; GET PAID</text>
+  <text x="610" y="400" text-anchor="middle" fill="#e8e2d8" font-size="10.5">sats over lightning · BTCPay</text>
+  <text x="610" y="417" text-anchor="middle" fill="#c7bfae" font-size="10">non-custodial · no checkpoint</text>
+
+  <!-- doors -> the block -->
+  <line x1="710" y1="123" x2="790" y2="238" stroke="#f7931a" stroke-width="1.5" marker-end="url(#a2)"/>
+  <line x1="710" y1="213" x2="790" y2="262" stroke="#f7931a" stroke-width="1.5" marker-end="url(#a2)"/>
+  <line x1="710" y1="303" x2="790" y2="288" stroke="#f7931a" stroke-width="1.5" marker-end="url(#a2)"/>
+  <line x1="710" y1="393" x2="790" y2="312" stroke="#f7931a" stroke-width="1.5" marker-end="url(#a2)"/>
+
+  <!-- THE BLOCK (right anchor) -->
+  <rect x="794" y="218" width="136" height="118" rx="10" fill="rgba(247,147,26,.1)" stroke="#f7931a" stroke-width="2.5"/>
+  <text x="862" y="252" text-anchor="middle" fill="#f7931a" font-size="22">⛓</text>
+  <text x="862" y="276" text-anchor="middle" fill="#f7931a" font-size="12.5" font-weight="bold">THE BLOCK</text>
+  <text x="862" y="295" text-anchor="middle" fill="#c7bfae" font-size="9.5">certs block-stamped</text>
+  <text x="862" y="310" text-anchor="middle" fill="#c7bfae" font-size="9.5">knowledge anchored</text>
+  <text x="862" y="325" text-anchor="middle" fill="#c7bfae" font-size="9.5">time that can't bend</text>
+
+  <!-- footer captions -->
+  <text x="115" y="360" text-anchor="middle" fill="#c7bfae" font-size="10.5" font-style="italic">keys are consent —</text>
+  <text x="115" y="376" text-anchor="middle" fill="#c7bfae" font-size="10.5" font-style="italic">nothing happens in your</text>
+  <text x="115" y="392" text-anchor="middle" fill="#c7bfae" font-size="10.5" font-style="italic">name without your signature</text>
+
+  <text x="480" y="490" text-anchor="middle" fill="#e8e2d8" font-size="13">One key opens every door. Every door writes its receipts to the block.</text>
+  <text x="480" y="514" text-anchor="middle" fill="#f7931a" font-size="12" font-style="italic">Nobody should have to trust; everybody should get to verify.</text>
+</svg>
