@@ -71,7 +71,7 @@ Two convictions hold up everything we build:
 
 A suite of free, open, self-hostable tools. Each stands alone; together they're an earthship you can move into.
 
-**frens.earth** — the front door. A Bitcoin handle and a Nostr identity you actually own: claim your `@frens` tag, get a NIP-05 name, sign in with your key. No email, no password to leak, no account to be suspended. Your name is yours because your key is yours.
+**frens.earth** — the front door and the free tool kit. A Bitcoin handle and a Nostr identity you actually own: claim your `@frens` tag, get a NIP-05 name, sign in with your key — no email, no password to leak, no account to be suspended. Then use the same kit to stand up your own store under your own name and keys. frens.earth also carries the POKE network — the Proof of Knowledge Engine, a school-in-a-box that teaches even offline — and the education system that rides with it. Your name is yours because your key is yours.
 
 **The MUD** — knowledge preservation tied to the block. A living, text-native world where what a community knows is written down, kept, and anchored to the chain so it can't be silently lost. Part game, part library, part time capsule — knowledge you can walk through, dated to the one record that doesn't forget.
 
@@ -85,7 +85,7 @@ A suite of free, open, self-hostable tools. Each stands alone; together they're 
 
 **Rune-ticket events** — event tickets done right: one rune per event or concert series, each unit a ticket AND a collectable, tied to your name by a signed attestation. Check-in is one signature — no scanner overlord, no custodial middleman. Fees go to the artist at mint; resale rules are the venue's own; provenance lives on-chain forever. Rarity is minted by the block itself.
 
-**The artist registry** — a home for artists to register a name, show work, and issue keepsakes whose rarity is set by Bitcoin Time, not by a marketing department. Provenance is public and permanent; the artist keeps the keys and the fees.
+**The artist registry** — a Pac's Arcade original, kept under the `@pacsarcade` key alone: a home for artists to register a name, show work, and issue keepsakes whose rarity is set by Bitcoin Time, not by a marketing department. Provenance is public and permanent; the artist keeps the keys and the fees. This chamber is the arcade's own — the tool kit ships everywhere, the artist home lives here.
 
 **The brand-kit-in-a-box** — the whole earthship as a template. Everything above ships as a package another community can stand up under its own name, its own keys, its own door — plug-and-play modules, so a co-op or a classroom or an arcade can run the full suite without asking us for permission. One fleet, many doors.
 
