@@ -2,7 +2,7 @@
 
 *0018.04.15 a₿ · This document wears block time, like all of ours do.*
 
-*Pac's Arcade is a Bitcoin-education non-profit (501(c)(3), Ohio). We are building a sovereign earthship for frens — a place to learn sound money, keep your own keys, and preserve what you know so it can't be quietly deleted. This is the paper for anyone deciding whether to join us, fund us, or build with us.*
+*Pac's Arcade is a founder-run Bitcoin-education project on its way to becoming a non-profit foundation. The foundation hasn't been formed or applied for 501(c)(3) status, so payments today aren't tax-deductible. We are building a sovereign earthship for frens — a place to learn sound money, keep your own keys, and preserve what you know so it can't be quietly deleted. This is the paper for anyone deciding whether to join us, fund us, or build with us.*
 
 ## TL;DR
 
@@ -145,4 +145,4 @@ Tick tock — it all comes back to the block.
 
 ---
 
-*Pac's Arcade · a 501(c)(3) non-profit, Ohio · built in the open, free and open source · frens.earth*
+*Pac's Arcade · a non-profit in formation · built in the open, free and open source · frens.earth*

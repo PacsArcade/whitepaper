@@ -40,7 +40,7 @@
   <!-- pacsarcade.org -->
   <rect x="380" y="262" width="200" height="108" rx="8" fill="none" stroke="#4dd8e6" stroke-width="1.5"/>
   <text x="480" y="290" text-anchor="middle" fill="#4dd8e6" font-size="14" font-weight="bold">pacsarcade.org</text>
-  <text x="480" y="310" text-anchor="middle" fill="#c7bfae" font-size="10.5">the arcade · 501(c)(3) home</text>
+  <text x="480" y="310" text-anchor="middle" fill="#c7bfae" font-size="10.5">the arcade · non-profit home</text>
   <text x="480" y="329" text-anchor="middle" fill="#e8e2d8" font-size="10.5">classes · manuals · courses</text>
   <text x="480" y="348" text-anchor="middle" fill="#f7931a" font-size="10">ARTIST home · @pacsarcade only</text>
 
