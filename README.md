@@ -1,6 +1,6 @@
 # Pac's Arcade — A White Paper
 
-*0018.04.15 a₿ · This document wears block time, like all of ours do.*
+*0018.04.15 a₿ · the time section revised 0018.07.26 a₿ (block 971,364) · This document wears block time, like all of ours do.*
 
 *Pac's Arcade is a founder-run Bitcoin-education project on its way to becoming a non-profit foundation. The foundation hasn't been formed or applied for 501(c)(3) status, so payments today aren't tax-deductible. We are building a sovereign earthship for frens — a place to learn sound money, keep your own keys, and preserve what you know so it can't be quietly deleted. This is the paper for anyone deciding whether to join us, fund us, or build with us.*
 
@@ -119,11 +119,11 @@ The structure is **a fleet**: a flagship (frens.earth) and a growing set of sist
 
 We don't tell time on a calendar anyone can edit. We tell it in **blocks**.
 
-On January 3rd, 2009, at height zero, time got a heartbeat nobody can rob: **144 blocks a day, the same for every soul on earth** — no time zones, no daylight saving, no committee, no pope. Bitcoin Federated Time reads that height as a calendar and a clock. **Year 0 is 2009**, so the year on the clock is simply Bitcoin's age — we're in year 18. Thirteen months of twenty-eight days, 52,416 blocks to the year, the same for everyone, forever.
+On January 3rd, 2009, at height zero, time got a heartbeat nobody can rob: **144 blocks a day, the same for every soul on earth** — no time zones, no daylight saving, no committee, no pope. Bitcoin Federated Time reads that height as a calendar and a clock. **Year 0 opened at the genesis block.** The year on the clock counts block-years, not trips around the sun: a year is 52,416 blocks, thirteen months of twenty-eight days, the same for everyone, forever. Blocks have come a little faster than ten minutes on average, so the clock reads year 18 while the sun's calendar says Bitcoin is 17. That is not a mistake. It is the chain's own heartbeat, and the count is exact.
 
 This is the house's own standard, and it's more than lore: it's how we keep our promise. Dating a thing to a block is what makes "preserved forever" a fact instead of a wish. Every manual, every cert, every ticket, every entry in the log wears block time — because the block is the one thing on earth we can all check and none of us can bend. We run our own node, and every clock we ship is being wired to read it first — public explorers as the honest fallback — so the time we serve comes from a machine we hold, not a stranger's. (The clock itself is published: github.com/PacsArcade/bitcoin-federated-time — check our math.)
 
-The calendar formally begins at **Day 0** — the **real** new moon nearest Bitcoin's eighteenth birthday (~7 January 2027, 20:24 UTC — check any almanac) — when we reset the clock at Bitcoin-midnight and start counting from zero. We're on moon time now.
+The calendar began at the genesis block and has never been reset. There is no Day 0 ahead and no moon in the count: the month is a block count, and the one moon is the real one over your head. The next new year on the clock is **0019.01.01**, block 995,904.
 
 The old calendar is burned. We're not asking for it back.
 
